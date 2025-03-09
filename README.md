@@ -1,5 +1,16 @@
 Tasks for "Numerical Methods for Engineers" course, 2024/2025
 
+1. ODE - Explicit Methods
+2. ODE - Implicit Methods
+3. ODE - Stiff Problems
+4. Poisson Equation: Global and Local Relaxation
+5. Poisson Equation: Multigrid Relaxation
+6. Poisson Equation: Solution by Algebraic Method
+7. Navier-Stokes Equations - Simulation of Viscous Fluid Flow
+8. Advection-Diffusion Equation - Mass Transport Simulation Using the Crank-Nicolson Method
+9. Heat Diffusion - Crank-Nicolson Method
+10. Wave Equation - String Vibration Simulation Using the Verlet Method
+
 lab08
 
 ![anim1](https://github.com/user-attachments/assets/79386497-9e6f-4fd1-ab7c-01434709436c)
